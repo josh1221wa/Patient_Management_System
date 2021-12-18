@@ -1,4 +1,4 @@
-# Patient_Management_System
+# Patient Management System
 During any pandemic the need arises for efficient and user-friendly documentation
 programs to record all cases and deaths which can help us to predict the extent of said
 pandemic.
